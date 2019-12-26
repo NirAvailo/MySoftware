@@ -5,6 +5,6 @@ def welcome():
 def click():
   print('Click')
 
-  
+################ OUTPUT #################
 welcome()
 click()
